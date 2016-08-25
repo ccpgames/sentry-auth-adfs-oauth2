@@ -18,7 +18,7 @@ tests_require = [
 
 setup(
     name='sentry-auth-adfs-oauth2',
-    version='0.0.1.dev0',
+    version='0.0.1',
     author='CCP Games',
     author_email='teamtechco@ccpgames.com',
     url='https://www.ccpgames.com',
