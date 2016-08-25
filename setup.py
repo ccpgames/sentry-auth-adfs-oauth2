@@ -2,8 +2,6 @@
 """
 sentry-auth-adfs-oauth2
 ==================
-
-:copyright: (c) 2016 Functional Software, Inc
 """
 from setuptools import setup, find_packages
 
@@ -18,7 +16,7 @@ tests_require = [
 
 setup(
     name='sentry-auth-adfs-oauth2',
-    version='0.0.1',
+    version='0.0.2',
     author='CCP Games',
     author_email='teamtechco@ccpgames.com',
     url='https://www.ccpgames.com',
